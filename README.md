@@ -148,7 +148,7 @@ Consider implementing additional verification methods:
 
 [MIT License](LICENSE)
 
-## AI Assistance Disclosure
+## AI Disclosure
 
 This project was created with the help of AI.
 
