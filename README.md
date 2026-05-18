@@ -150,5 +150,5 @@ Consider implementing additional verification methods:
 
 ## AI Assistance Disclosure
 
-This tool was developed with assistance from AI tools.
+This project was created with the help of AI.
 
